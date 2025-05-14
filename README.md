@@ -1,1 +1,1 @@
-# stepic-pageObject
+# stepic-course-pageobject
